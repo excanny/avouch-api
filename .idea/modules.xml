@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/avouch/avouch.iml" filepath="$PROJECT_DIR$/avouch/avouch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/avouch/api.iml" filepath="$PROJECT_DIR$/avouch/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/domain.iml" filepath="$PROJECT_DIR$/api/domain.iml" />
     </modules>
   </component>
 </project>
